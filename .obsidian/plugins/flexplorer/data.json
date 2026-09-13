@@ -1,0 +1,256 @@
+{
+  "items": {
+    "/": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Scrapbook",
+        "Media",
+        "Canon and Implications",
+        "Low-Light Observation Chamber.md",
+        "Quantum Atmosphere Collector.md",
+        "Paradoxical Room.md",
+        "Spacetime.md",
+        "The Shard.md",
+        "Localized Rupture.md",
+        "Museum Placard.md",
+        "Data Streams.md",
+        "Endings.md"
+      ]
+    },
+    "Canon and Implications": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Quantum Behavior.md",
+        "Persistence.md",
+        "Nomai Technology.md"
+      ]
+    },
+    "Canon and Implications/Quantum Behavior.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Canon and Implications/Persistence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Canon and Implications/Nomai Technology.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "ATP to OPC Data Stream.mp4",
+        "Scrapped - Previous Universe Wormhole.webp",
+        "Nomai Text Tools.webp",
+        "Scout in next universe.webp",
+        "Shard vs Normal.png",
+        "Localized Spacetime Fracture Test - TH Observatory.mp4",
+        "Destroy Fabric of Spacetime.gif",
+        "Memory Flashback.gif",
+        "3D Spacetime Curve.gif",
+        "2D Spacetime Curve.png",
+        "Wormhole Representation.png",
+        "Crescendo Graph.png",
+        "Core Motif.png",
+        "Inverted Planet Example.png",
+        "Fabric of Spacetime.webp"
+      ]
+    },
+    "Media/Crescendo Graph.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Inverted Planet Example.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Core Motif.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Fabric of Spacetime.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/3D Spacetime Curve.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Wormhole Representation.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/2D Spacetime Curve.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Memory Flashback.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Destroy Fabric of Spacetime.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Localized Spacetime Fracture Test - TH Observatory.mp4": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Low-Light Observation Chamber.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Spacetime.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "The Shard.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Localized Rupture.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Museum Placard.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Scout in next universe.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Shard vs Normal.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Nomai Text Tools.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Scrapped - Previous Universe Wormhole.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Data Streams.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/ATP to OPC Data Stream.mp4": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Endings.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Paradoxical Room.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Scrap book.md",
+        "Project History.md",
+        "Scrapped Ideas",
+        "Notes"
+      ]
+    },
+    "Scrapbook/Project History.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrap book.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrapped Ideas": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "The Endings.md",
+        "Eye Quantum Foam Scene.md",
+        "Original Use-Case for Spacetime.md",
+        "Entrance to the Expansion.md"
+      ]
+    },
+    "Scrapbook/Notes": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Fir's Playthrough (9-9-2026).md",
+        "Doubt (8-23-2026).md",
+        "The Eye's Origin Theory (Reddit).md",
+        "Ghost Matter.md",
+        "Nonlinearity (8-10-2026).md",
+        "Robert Frost (8-18-2026).md",
+        "Story vs Gameplay Details (8-20-2026).md"
+      ]
+    },
+    "Scrapbook/Scrapped Ideas/Entrance to the Expansion.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrapped Ideas/Original Use-Case for Spacetime.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrapped Ideas/Eye Quantum Foam Scene.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrapped Ideas/The Endings.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Nonlinearity (8-10-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Robert Frost (8-18-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Ghost Matter.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Doubt (8-23-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/The Eye's Origin Theory (Reddit).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Fir's Playthrough (9-9-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Story vs Gameplay Details (8-20-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Quantum Atmosphere Collector.md": {
+      "isPinned": false,
+      "isHidden": false
+    }
+  },
+  "pinnedFiles": [],
+  "showHidden": false,
+  "newItemPlacement": "top",
+  "persistOrderOnCreateDelete": true,
+  "debugMode": false
+}

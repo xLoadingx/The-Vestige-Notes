@@ -1,0 +1,203 @@
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: linear-gradient(
+    180deg,
+    var(--starrynight-sky-top, #02040a) 0%,
+    var(--starrynight-sky-bottom, #07111f) 100%
+  );
+}
+
+.starrynight-bg-container {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  overflow: hidden;
+  background-color: transparent;
+  opacity: var(--starrynight-opacity, 0.8);
+}
+
+.starrynight-star {
+  position: absolute;
+  z-index: 1;
+  border-radius: 50%;
+}
+
+.app-container {
+  position: relative;
+  z-index: 2;
+}
+
+.workspace,
+.workspace-split,
+.workspace-tabs,
+.workspace-tab-container,
+.workspace-leaf,
+.workspace-leaf-content,
+.workspace-leaf-content[data-type="markdown"],
+.view-content,
+.markdown-source-view,
+.markdown-preview-view,
+.markdown-reading-view,
+.mod-root,
+.workspace-tab-header-container,
+.workspace-ribbon,
+.side-dock-settings,
+.side-dock-actions {
+  background: transparent !important;
+}
+
+.workspace-leaf-content,
+.markdown-source-view,
+.markdown-preview-view {
+  background-color: transparent !important;
+}
+
+@keyframes twinkle1 {
+  0% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  20% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  40% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  60% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  80% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  100% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+}
+
+@keyframes twinkle2 {
+  0% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  20% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  40% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  60% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  80% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  100% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+}
+
+@keyframes twinkle3 {
+  0% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  20% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  40% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  60% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  80% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+}
+
+@keyframes twinkle4 {
+  0% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  20% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+
+  40% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  60% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  80% {
+    box-shadow: 0 0 8px 2px var(--starrynight-star-glow);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 var(--starrynight-star-glow);
+  }
+}
+
+.shootingstar {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: var(--starrynight-shooting-star);
+  border-radius: 50%;
+  animation: shootingstar-animate 3s linear;
+  left: initial;
+  z-index: 1;
+}
+
+.shootingstar::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 300px;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    var(--starrynight-shooting-star),
+    transparent
+  );
+}
+
+@keyframes shootingstar-animate {
+  0% {
+    transform: rotate(315deg) translateX(0);
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: rotate(315deg) translateX(-1500px);
+    opacity: 0;
+  }
+}

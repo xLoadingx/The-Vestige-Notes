@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Untitled.md",
+      "timestamp": 1789314871301
+    },
+    {
+      "filepath": "Scrapbook/Scrapped Ideas/The Endings.md",
+      "timestamp": 1789314542572
+    },
+    {
+      "filepath": "Scrapbook/Notes/Doubt (8-23-2026).md",
+      "timestamp": 1789314499846
+    },
+    {
+      "filepath": "Canon and Implications/Nomai Technology.md",
+      "timestamp": 1789314460356
+    },
+    {
+      "filepath": "Paradoxical Room.md",
+      "timestamp": 1789314425819
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

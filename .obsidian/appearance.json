@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "#715eb0",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "wider-line-width"
+  ]
+}

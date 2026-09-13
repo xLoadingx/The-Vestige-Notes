@@ -1,0 +1,8 @@
+{
+  "dbFileName": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
+  "delayAfterFileOpening": 100,
+  "saveTimer": 5000,
+  "pruneOrphans": false,
+  "maxAgeDays": 0,
+  "maxCount": 0
+}

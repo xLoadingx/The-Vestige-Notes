@@ -1,0 +1,11 @@
+{
+  "skyTop": "#000000",
+  "skyBottom": "#160a2e",
+  "starColor": "#ffffff",
+  "starGlowColor": "#ffffff",
+  "shootingStarColor": "#ffffff",
+  "shootingStarGlowRgb": "255, 255, 255",
+  "backgroundOpacity": 0.8,
+  "starDensity": 4000,
+  "shootingStarCount": 4
+}

@@ -1,0 +1,9 @@
+{
+  "id": "starry-night-background",
+  "name": "Starry Night BG",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Adds a Spicetify-style animated starry background to Obsidian.",
+  "author": "ERROR",
+  "isDesktopOnly": false
+}

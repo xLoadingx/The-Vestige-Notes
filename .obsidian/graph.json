@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:Theme",
+      "color": {
+        "a": 1,
+        "rgb": 15807742
+      }
+    },
+    {
+      "query": "tag:Major",
+      "color": {
+        "a": 1,
+        "rgb": 15535116
+      }
+    },
+    {
+      "query": "tag:Minor",
+      "color": {
+        "a": 1,
+        "rgb": 16697657
+      }
+    },
+    {
+      "query": "tag:Detail",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "tag:Phenomenon",
+      "color": {
+        "a": 1,
+        "rgb": 8671968
+      }
+    },
+    {
+      "query": "tag:Mechanic",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:Location",
+      "color": {
+        "a": 1,
+        "rgb": 5732607
+      }
+    },
+    {
+      "query": "path:\"Scrapbook/Scrapped Ideas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3881787
+      }
+    },
+    {
+      "query": "path:Scrapbook/Notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 37375
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 1.17560975609756,
+  "collapse-forces": false,
+  "centerStrength": 0.350634146341463,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 442,
+  "scale": 0.3415791533143875,
+  "close": false
+}
