@@ -12,6 +12,7 @@ Links:
 
 [[The Eye's Origin Theory (Reddit)]]
 [[Ghost Matter]]
+[[Quantum Atmosphere Collector (9-16-2026)]]
 [[Fir's Playthrough (9-9-2026)]]
 [[Nonlinearity (8-10-2026)]]
 [[Robert Frost (8-18-2026)]]

@@ -179,6 +179,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "desktop.ini",
         "The Endings.md",
         "Eye Quantum Foam Scene.md",
         "Original Use-Case for Spacetime.md",
@@ -190,6 +191,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Quantum Atmosphere Collector (9-16-2026).md",
         "Fir's Playthrough (9-9-2026).md",
         "Doubt (8-23-2026).md",
         "The Eye's Origin Theory (Reddit).md",
@@ -244,6 +246,14 @@
       "isHidden": false
     },
     "Quantum Atmosphere Collector.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Scrapped Ideas/desktop.ini": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Quantum Atmosphere Collector (9-16-2026).md": {
       "isPinned": false,
       "isHidden": false
     }
