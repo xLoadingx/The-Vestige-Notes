@@ -58,7 +58,6 @@ Phlox: “I do worry about the Quantum Moon orbiting close to the Orbital Probe 
 
 Phlox: “Which might I add was quite the difficult task considering Cassava’s unconventional launching method.”
 
-  
 Daz: “Unless you can find another method of getting such heavy components into orbit, I suggest we let her continue.”
 
 (Projection stone from Quantum Moon (oddly it doesn’t have one in game) and Giants Deep)

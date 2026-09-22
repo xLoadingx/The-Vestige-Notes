@@ -179,7 +179,6 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "desktop.ini",
         "The Endings.md",
         "Eye Quantum Foam Scene.md",
         "Original Use-Case for Spacetime.md",
@@ -246,10 +245,6 @@
       "isHidden": false
     },
     "Quantum Atmosphere Collector.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Scrapbook/Scrapped Ideas/desktop.ini": {
       "isPinned": false,
       "isHidden": false
     },
