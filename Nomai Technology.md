@@ -51,8 +51,8 @@ And since Information can travel separately from Matter throughout spacetime, I 
 
 [^2]: Again, I do find it interesting to note how many things in Outer Wilds come in groups of three. I've noticed this a lot in text, as well, with the "Rule Of Threes" coming up a lot in writing within the real world. Perhaps that also applies to game design, whether intentionally or not.
 
-[^3]: An interesting counter to this technology being created within the Star System is that the Vessel also has a form of communication between other Nomai Clans, though it is unknown how fast this communication is (my excuse).
+[^3]: An interesting counter to this technology being created within the Star System is that the Vessel also has a form of communication between other Nomai Clans, though it is unknown how fast this communication is or what technology it uses for this (my excuse).
 
 [^4]: This is what wakes the player up from their sleep.
 
-[^5]: > "DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain."
+[^5]: DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain.

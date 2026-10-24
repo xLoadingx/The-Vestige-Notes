@@ -7,3 +7,6 @@ Looking at the surface, it's a rounded spherical shape made of quantum material.
 Of course, this means that some sort of planet seemed to pass through the Eye before (which would be a very interesting direction for the Vestige, to explore a remnant planet from a previous universe). Would've been fun to explore and design, but unfortunately I believe that's a bit too big to have much of an impact.
 
 Anyways, the Eye is a planet, just, a weird one. And that's quite strange to think about, but I like this theory.
+
+EDIT (7:44 PM 9/22/2026):
+Found it: [Reddit Link](https://www.reddit.com/r/outerwilds/comments/18mg47w/spoiler_warning_only_seasoned_venturers_ahead/)

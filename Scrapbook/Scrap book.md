@@ -6,12 +6,12 @@
 Links:
 [[Project History]]
 [[Original Use-Case for Spacetime]]
-[[Entrance to the Expansion]]
+[[Entrance to the Expansion (8-20-2026)]]
 [[Eye Quantum Foam Scene]]
 [[The Endings]]
 
-[[The Eye's Origin Theory (Reddit)]]
-[[Ghost Matter]]
+[[The Eye's Origin Theory (Reddit) (8-20-2026)]]
+[[Ghost Matter (8-20-2026)]]
 [[Quantum Atmosphere Collector (9-16-2026)]]
 [[Fir's Playthrough (9-9-2026)]]
 [[Nonlinearity (8-10-2026)]]

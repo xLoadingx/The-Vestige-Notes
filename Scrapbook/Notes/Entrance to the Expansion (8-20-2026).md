@@ -15,7 +15,7 @@ To solve this, I thought of using a gimbal of sorts, but then again that doesn't
 
 And it's for the same reason as the ATP, so, it's just a copy.
 #### Some form of light trigger
-There's a bit of a strange sequence when you enter the LOC where you have to travel back and forth between the controls and the LOC fairly often.[^1]
+There's a bit of a strange sequence when you enter the LOC where you have to travel back and forth between the controls and the LOC fairly often.
 
 I thought, since you have to do this a ton already anyways, to use the light toggles as some form of quantum entanglement. Though, I didn't exactly come up with any idea to make it harder than just standing on a rock.
 

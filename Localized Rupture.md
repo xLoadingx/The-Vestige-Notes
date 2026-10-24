@@ -34,8 +34,6 @@ The Nomai used a negative time interval of 5 seconds[^1] to verify that informat
 1. The shard is located at the value provided from the NTI after the window opens a little after the data is received.
 2. The shard is not located at the value provided from the NTI, meaning the data was corrupted and thus not representative of the future observed state of the quantum shard (the future state being the one shown when the window is opened). This does not cause the paradox, as it does not represent the true state of the shard.
 
-> A second window behind the sliding one closes when the NTI state is observed and the state is recorded and sent back. This is to preserve the pocket.
-
 While these were the only two cases observed by the Nomai, as they never expected the sample to be observed between the future data being received and the NTI passing before the shard is observed, the hatchling has the scout.
 
 If the hatchling shoots their scout into the room before activating the NTI, this allows the shard to be observed in-between that small interval. If the hatchling takes a picture of the shard after receiving the future data, but before the window opens, then the shard now has two conflicting (though valid) states for the same object. One state being the locked state by the [[Quantum Behavior#^4e36ba|Rule of Quantum Imaging]] via the scout, while the other is locked by the future recorded state shown on the computer.

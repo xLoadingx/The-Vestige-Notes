@@ -7,45 +7,26 @@
       "customOrder": [
         "Scrapbook",
         "Media",
-        "Canon and Implications",
+        "Persistence.md",
+        "The Shard.md",
+        "Nomai Technology.md",
         "Low-Light Observation Chamber.md",
         "Quantum Atmosphere Collector.md",
-        "Paradoxical Room.md",
         "Spacetime.md",
-        "The Shard.md",
+        "Quantum Behavior.md",
         "Localized Rupture.md",
         "Museum Placard.md",
         "Data Streams.md",
-        "Endings.md"
+        "Endings.md",
+        "The Argument.md"
       ]
-    },
-    "Canon and Implications": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "Quantum Behavior.md",
-        "Persistence.md",
-        "Nomai Technology.md"
-      ]
-    },
-    "Canon and Implications/Quantum Behavior.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Canon and Implications/Persistence.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Canon and Implications/Nomai Technology.md": {
-      "isPinned": false,
-      "isHidden": false
     },
     "Media": {
       "isPinned": false,
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Expansion Mural.webp",
         "ATP to OPC Data Stream.mp4",
         "Scrapped - Previous Universe Wormhole.webp",
         "Nomai Text Tools.webp",
@@ -151,10 +132,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Paradoxical Room.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Scrapbook": {
       "isPinned": false,
       "isHidden": false,
@@ -181,8 +158,7 @@
       "customOrder": [
         "The Endings.md",
         "Eye Quantum Foam Scene.md",
-        "Original Use-Case for Spacetime.md",
-        "Entrance to the Expansion.md"
+        "Original Use-Case for Spacetime.md"
       ]
     },
     "Scrapbook/Notes": {
@@ -193,16 +169,13 @@
         "Quantum Atmosphere Collector (9-16-2026).md",
         "Fir's Playthrough (9-9-2026).md",
         "Doubt (8-23-2026).md",
-        "The Eye's Origin Theory (Reddit).md",
-        "Ghost Matter.md",
+        "Entrance to the Expansion (8-20-2026).md",
+        "The Eye's Origin Theory (Reddit) (8-20-2026).md",
+        "Ghost Matter (8-20-2026).md",
         "Nonlinearity (8-10-2026).md",
         "Robert Frost (8-18-2026).md",
         "Story vs Gameplay Details (8-20-2026).md"
       ]
-    },
-    "Scrapbook/Scrapped Ideas/Entrance to the Expansion.md": {
-      "isPinned": false,
-      "isHidden": false
     },
     "Scrapbook/Scrapped Ideas/Original Use-Case for Spacetime.md": {
       "isPinned": false,
@@ -224,15 +197,7 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Scrapbook/Notes/Ghost Matter.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Scrapbook/Notes/Doubt (8-23-2026).md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Scrapbook/Notes/The Eye's Origin Theory (Reddit).md": {
       "isPinned": false,
       "isHidden": false
     },
@@ -249,6 +214,38 @@
       "isHidden": false
     },
     "Scrapbook/Notes/Quantum Atmosphere Collector (9-16-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/The Eye's Origin Theory (Reddit) (8-20-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Ghost Matter (8-20-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "The Argument.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Persistence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Quantum Behavior.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Nomai Technology.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Expansion Mural.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Scrapbook/Notes/Entrance to the Expansion (8-20-2026).md": {
       "isPinned": false,
       "isHidden": false
     }
