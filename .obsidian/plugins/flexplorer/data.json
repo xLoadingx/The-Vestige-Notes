@@ -8,6 +8,7 @@
         "Scrapbook",
         "Media",
         "Persistence.md",
+        "Previous Universe.md",
         "The Shard.md",
         "Nomai Technology.md",
         "Low-Light Observation Chamber.md",
@@ -246,6 +247,10 @@
       "isHidden": false
     },
     "Scrapbook/Notes/Entrance to the Expansion (8-20-2026).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Previous Universe.md": {
       "isPinned": false,
       "isHidden": false
     }
