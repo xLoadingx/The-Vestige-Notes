@@ -1,4 +1,4 @@
-#Location #Major #Phenomenon
+#Major #Phenomenon
 
 The Shard is an unusual quantum fragment whose properties and history form the basis of much of the mod's story.
 

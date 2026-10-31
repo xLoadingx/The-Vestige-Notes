@@ -27,6 +27,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Previous Universe References",
         "Expansion Mural.webp",
         "ATP to OPC Data Stream.mp4",
         "Scrapped - Previous Universe Wormhole.webp",
@@ -251,6 +252,38 @@
       "isHidden": false
     },
     "Previous Universe.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Previous Universe References": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Aurora Borealis.webp",
+        "Light Pillars.webp",
+        "Halo Display.webp",
+        "Iridescent Cirrus Clouds.webp",
+        "Iridescent Cucumbernimbus Clouds.webp"
+      ],
+      "sortOrder": "custom"
+    },
+    "Media/Previous Universe References/Aurora Borealis.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Previous Universe References/Iridescent Cucumbernimbus Clouds.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Previous Universe References/Light Pillars.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Previous Universe References/Iridescent Cirrus Clouds.webp": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Media/Previous Universe References/Halo Display.webp": {
       "isPinned": false,
       "isHidden": false
     }
